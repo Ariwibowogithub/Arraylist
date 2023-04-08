@@ -1,8 +1,9 @@
-package arraylist.bag;
+package ArrayList.bag;
 
 import java.util.HashMap;
 import java.util.Map;
 
+// mengh
 public class bag<E> {
     private Map<E, Integer> map;
 

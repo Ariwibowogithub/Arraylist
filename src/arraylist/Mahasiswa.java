@@ -1,7 +1,6 @@
-package arraylist;
+package ArrayList;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 class Mahasiswa {
     private String nama;
@@ -11,6 +10,7 @@ class Mahasiswa {
     public Mahasiswa(String nama, String nim, ArrayList<Double> nilai) {
         this.nama = nama;
         this.nim = nim;
+        this.nilai = nilai;
     }
 
     public String getNama() {

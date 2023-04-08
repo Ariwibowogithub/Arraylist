@@ -1,4 +1,4 @@
-package arraylist.graf;
+package ArrayList.graf;
 
 public class Main {
     public static void main(String[] args) {
