@@ -3,10 +3,10 @@ package arraylist.bag;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Bag<E> {
+public class bag<E> {
     private Map<E, Integer> map;
 
-    public Bag() {
+    public bag() {
         map = new HashMap<>();
     }
 
